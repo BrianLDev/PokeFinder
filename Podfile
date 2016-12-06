@@ -7,4 +7,5 @@ target '136-PokeFinder' do
 
   # Pods for 136-PokeFinder
   pod 'Firebase/Core'
+  pod 'Firebase/Database'
 end
